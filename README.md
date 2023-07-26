@@ -13,20 +13,20 @@
 ## REPOSITORIO
 
 .
-└── PYTHON_DATATREATMENT
-├── main
-│ ├── **init**.py
-│ ├── question1.py
-│ ├── question2.py
-│ ├── question3.py
-│ ├── regex_helper.py
-├── question1_pandas.parquet
-├── question1_pyspark.parquet
-├── question2_pandas.parquet
-├── question2_pyspark.parquet
-├── question3_pandas.parquet
-├── question3_pyspark.parquet
-├── requirements.txt
+└── PYTHON_DATATREATMENT<br />
+├── main<br />
+│ ├── **init**.py<br />
+│ ├── question1.py<br />
+│ ├── question2.py<br />
+│ ├── question3.py<br />
+│ ├── regex_helper.py<br />
+├── question1_pandas.parquet<br />
+├── question1_pyspark.parquet<br />
+├── question2_pandas.parquet<br />
+├── question2_pyspark.parquet<br />
+├── question3_pandas.parquet<br />
+├── question3_pyspark.parquet<br />
+├── requirements.txt<br />
 └── Test_RNP_Notebook.ipynb
 
 ## PASSOS
