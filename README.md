@@ -2,7 +2,7 @@
 
 ## SOBRE
 
-- Este projecto visa resolver o problema proposto pela empresa RNP
+- Este projecto visa resolver o problema propostos, assim como mostrar como manejar dados com o databricks utilizando pyspark e python pandas. Salvando as respostas em formato delta.
 
 ## REQUISITOS
 
